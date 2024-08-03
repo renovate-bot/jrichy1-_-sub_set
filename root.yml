@@ -1,0 +1,12 @@
+import { Scripts } from "@remix-run/react";
+
+export default function Root() {
+  return (
+    <html>
+      <head />
+      <body>
+        <Scripts />
+      </body>
+    </html>
+  );
+}
